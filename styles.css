@@ -1,0 +1,55 @@
+.heading{
+    background-color: antiquewhite;
+}
+
+img{
+    float: left;
+}
+
+.top{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.bot{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    width: 70px ;
+}
+
+.show{
+    display: flex;
+    justify-content: center;
+}
+
+.show button{
+    display: flexbox;
+    margin-top: 100px;
+    width: 1000px;
+    height: 100px;
+    font-size: 60px;
+}
+
+.result{
+
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 100px;
+
+    border: 1px solid black;
+    border-radius: 5px;
+
+    height: 100px;
+    width: 500px;
+}
