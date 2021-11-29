@@ -4,4 +4,6 @@ User gets 6 chances to guess the word correctly.
 THE WORDS ARE ADDED ON LINE 21 OF THE JAVASCRIPT FILE, YOU CAN ADD OR REMOVE THE WORDS FROM THERE.
 WORDS ARE ADDED BY SPACING THEM, Ex- If you want the word "INDIA" add the word "I N D I A" onto line 21.
 
+Current words are - India, Australia, England
+
 https://bpippal.github.io/Hangman/
